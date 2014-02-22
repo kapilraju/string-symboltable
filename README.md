@@ -1,2 +1,2 @@
-string-symboltable
-==================
+String symbol table library in JAVA
+====================================
